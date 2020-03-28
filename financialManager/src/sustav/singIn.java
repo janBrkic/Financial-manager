@@ -1,4 +1,4 @@
-package sustav;
+package sustav;						//basic code for sing in option
 
 import java.util.Scanner;
 import java.io.File;
